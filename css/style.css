@@ -189,4 +189,36 @@ main {
 }
 /* skill end */
 /* Resume start */
+.resume-container {
+  display: flex;
+}
+.resume-col-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-top: 115px;
+}
+.resume-col {
+  margin-right: 15px;
+}
+.resume-item-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 20px 0 8px 0;
+}
+.resume-item-institute {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.resume-item-description {
+  color: #757575;
+  font-size: 16px;
+  font-family: Open Sans;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
 /* Resume end */
