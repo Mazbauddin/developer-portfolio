@@ -240,13 +240,9 @@ footer {
 .align-set {
   text-align: left;
   margin-bottom: 10px;
-}
-.section-details {
   color: #474747;
-  font-size: 16px;
-  font-weight: 400;
-  text-align: left;
 }
+
 .social-links {
   margin-top: 20px;
 }
